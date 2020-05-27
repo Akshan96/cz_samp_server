@@ -1,0 +1,43 @@
+//Global TextDraws: 
+
+
+new Text:TDEditor_TD[3];
+
+TDEditor_TD[0] = TextDrawCreate(86.000000, 287.066802, "13:57:32");
+TextDrawLetterSize(TDEditor_TD[0], 0.400000, 1.600000);
+TextDrawAlignment(TDEditor_TD[0], 2);
+TextDrawColor(TDEditor_TD[0], -1);
+TextDrawSetShadow(TDEditor_TD[0], 1);
+TextDrawSetOutline(TDEditor_TD[0], 0);
+TextDrawBackgroundColor(TDEditor_TD[0], 255);
+TextDrawFont(TDEditor_TD[0], 1);
+TextDrawSetProportional(TDEditor_TD[0], 1);
+TextDrawSetShadow(TDEditor_TD[0], 1);
+
+TDEditor_TD[1] = TextDrawCreate(43.000000, 279.600036, ".");
+TextDrawLetterSize(TDEditor_TD[1], 8.820992, 0.899999);
+TextDrawAlignment(TDEditor_TD[1], 1);
+TextDrawColor(TDEditor_TD[1], -5963521);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+TextDrawSetOutline(TDEditor_TD[1], 0);
+TextDrawBackgroundColor(TDEditor_TD[1], 255);
+TextDrawFont(TDEditor_TD[1], 1);
+TextDrawSetProportional(TDEditor_TD[1], 1);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+
+TDEditor_TD[2] = TextDrawCreate(87.000000, 265.599884, "9/06/2015");
+TextDrawLetterSize(TDEditor_TD[2], 0.459999, 1.880000);
+TextDrawAlignment(TDEditor_TD[2], 2);
+TextDrawColor(TDEditor_TD[2], -1);
+TextDrawSetShadow(TDEditor_TD[2], 1);
+TextDrawSetOutline(TDEditor_TD[2], 0);
+TextDrawBackgroundColor(TDEditor_TD[2], 255);
+TextDrawFont(TDEditor_TD[2], 1);
+TextDrawSetProportional(TDEditor_TD[2], 1);
+TextDrawSetShadow(TDEditor_TD[2], 1);
+
+
+
+
+//Total textdraws exported: 3 (3 global textdraws / 0 player textdraws) ~ 9/6/2015 ~ 14:1:35
+TDEditor V1.14 by adri1

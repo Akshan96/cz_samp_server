@@ -1,0 +1,2 @@
+ApplyAnimation(playerid, "RUNNINGMAN", "DANCE_G2", 4.0, 1, 0, 0, 0, 0); // dance 1
+ApplyAnimation(playerid, "RUNNINGMAN", "DANCE_G1", 4.0, 1, 0, 0, 0, 0); // dance 2
